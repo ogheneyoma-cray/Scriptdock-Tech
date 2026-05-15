@@ -19,7 +19,7 @@ export default function ContactUs() {
               </div>
               <div>
                 <strong className="block text-gray-900 mb-1">Phone</strong>
-                <a href="tel:+234" className="text-purple-700 hover:underline">+234</a>
+                <a href="tel:+234" className="text-purple-700 hover:underline">+2348038172269</a>
               </div>
               <div>
                 <strong className="block text-gray-900 mb-1">Address</strong>
