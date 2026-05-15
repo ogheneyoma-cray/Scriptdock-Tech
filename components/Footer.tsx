@@ -16,7 +16,7 @@ export function Footer() {
                 <a href="mailto:support@mayodigital.com" className="hover:text-purple-700 transition">support@mayodigital.com</a>
               </li>
               <li>
-                <a href="tel:+234" className="hover:text-purple-700 transition">+234</a>
+                <a href="tel:+234" className="hover:text-purple-700 transition">+2348038172269</a>
               </li>
               <li className="leading-relaxed">Plot 3978 Nuc Quarters Karu,<br />Abuja Municipal Area Council</li>
             </ul>
